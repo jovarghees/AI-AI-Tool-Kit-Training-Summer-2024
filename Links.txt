@@ -1,0 +1,3 @@
+Git repo: https://github.com/jovarghees/AI-Tool-Kit-Training-Summer-2024.git
+Git Download : https://git-scm.com/download/
+Git Download GUI :https://git-scm.com/download/gui/windows
